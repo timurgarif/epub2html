@@ -17,7 +17,7 @@
     "epub"
   ],
   "dependencies": {
-    "epub-parser": ">=0.2.4"
+    "@timurgarif/epub-parser": ">=0.2.4"
   },
   "author": "vaporbook",
   "license": "BSD"

@@ -1,5 +1,5 @@
 {
-  "name": "epub2html",
+  "name": "@liteka/epub2html",
   "version": "0.0.10",
   "description": "Converts internal metadata of Epub files to useful structural markup.",
   "main": "index.js",
